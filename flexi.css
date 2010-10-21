@@ -1,0 +1,11 @@
+html {overflow:-moz-scrollbars-vertical;height:100%}
+body {background:#333;margin:0;padding:0;text-align:center;height:100%;}
+#deco-l {position:absolute;float:left;margin-left:-20px;width:40px;height:100%;background:url('deco.png')}
+#deco-r {position:absolute;left:940px;float:right;width:40px;height:100%;background:url('deco.png')}
+#contain {position:relative;width:960px;margin:0 auto;background: #FFF top no-repeat;text-align:left;height:100%}
+#contain {height:auto;min-height:100%}
+#main {padding:10px 0 20px;//height:100%} /* adjust the bottom-padding here to the height of your footie */
+#footie {position:absolute;width:100%;bottom:0;}
+
+#fucking { text-align: center; }
+h1 { font-size:48px; }
