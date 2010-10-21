@@ -5,7 +5,7 @@ body {background:#333;margin:0;padding:0;text-align:center;height:100%;}
 #contain {position:relative;width:960px;margin:0 auto;background: #FFF top no-repeat;text-align:left;height:100%}
 #contain {height:auto;min-height:100%}
 #main {padding:10px 0 20px;//height:100%} /* adjust the bottom-padding here to the height of your footie */
-#footie {position:absolute;width:100%;bottom:0;}
+#footie {position:absolute;width:100%;bottom:0;text-align:center;}
 
 #fucking { text-align: center; }
 h1 { font-size:48px; }
